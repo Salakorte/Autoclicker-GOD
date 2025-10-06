@@ -84,5 +84,5 @@ Incluye control por hotkey global y soporte para detener manualmente desde la in
 
 ## 🧑‍💻 Desarrollado por
 
-**Alex Villen**
+**Salakorte  //  Salakolte**
 📦 [GitHub](https://github.com/Salakorte)
