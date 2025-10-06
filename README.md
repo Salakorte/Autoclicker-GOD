@@ -165,3 +165,5 @@ Execution status (“Active” / “Inactive”)
 Includes global hotkey control and manual stop support via GUI.
 
 🧑‍💻 Developed by Alex Villen
+
+
